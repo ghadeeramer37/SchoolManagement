@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -78,6 +79,10 @@
         </main>
     </div>
 </body>
+=======
+
+
+>>>>>>> parent of a63be0b (test3)
 =======
 
 
